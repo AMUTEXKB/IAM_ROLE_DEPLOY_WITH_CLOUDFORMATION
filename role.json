@@ -157,7 +157,7 @@
                 }
             }
         },
-        "GDAuditFrameworkSSMAccess": {
+        "KBAuditFrameworkSSMAccess": {
             "Type": "AWS::IAM::ManagedPolicy",
             "Properties": {
                 "ManagedPolicyName": "KB-AuditFramework-SSM-Access",
